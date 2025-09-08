@@ -64,11 +64,6 @@ function App() {
           </div>
         </div>
 
-        <div className="cta">
-          <a className="button glow" href="#" onClick={(e) => e.preventDefault()}>
-            Notify Me
-          </a>
-        </div>
       </main>
 
       <footer className="footnote">

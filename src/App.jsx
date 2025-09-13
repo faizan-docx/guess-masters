@@ -40,7 +40,7 @@ function App() {
           
           <span className="title__text">Coming Soon</span>
         </h1>
-        <p className="subtitle">We’re crafting something awesome. Stay tuned.</p>
+        <p className="subtitle">We’re crafting something awesome. Stay tuned with us.</p>
 
         <div className="countdown">
           {/* <div className="time">

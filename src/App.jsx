@@ -67,7 +67,7 @@ function App() {
       </main>
 
       <footer className="footnote">
-        <span>© {new Date().getFullYear()} Guess Masters</span>
+        <span>© 2025 TechEagles — Education Solutions | Backed by Mahakumbrix Entrepreneurship</span>
       </footer>
     </div>
   )
